@@ -1,11 +1,85 @@
 #EXTM3U
-#EXTINF:-1 ,MOVISTAR DEPORTES
+#EXTINF:0 ,MOVISTAR DEPORTES
 http://31.220.41.88:8081/live/es-movistar-deportes.stream/playlist.m3u8
-#EXTINF:-1 ,MOVISTAR DEPORTES 2
+#EXTINF:0 ,MOVISTAR DEPORTES 2
 http://31.220.41.88:8081/live/es-movistar-deportes2.stream/playlist.m3u8
-#EXTINF:-1 ,MOVISTAR LA LIGA
+#EXTINF:0 ,MOVISTAR LA LIGA
 http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
-#EXTINF:-1 ,MOVISTAR LA LIGA 2
+#EXTINF:0 ,MOVISTAR LA LIGA 2
 http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 ,SKY SPORT
+#EXTINF:0 ,SKY SPORT
 http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",PARTIDOS HOY   (15241425)
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8?thejoelc
+#EXTINF:0 tvg-id="ext" group-title="nodotv",ESPN 2 ARG (15200601)
+http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",ESPN 3 ARG  (15201039)
+http://195.181.163.39/DEP_ESPN_3_ARG/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",ESPN DEPORTES (15206789)
+http://minafire.com:25461/new36/CEDrCH5bBe/444
+#EXTINF:0 tvg-id="ext" group-title="nodotv",ESPN COL (15201109)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_hls_media=1&_cdn_session=66022323&_cdn_timestamp=1629705607&_cdn_token=f923051ddfb1e0dfca3587f55e321aa0921e892a
+#EXTINF:0 tvg-id="ext" group-title="nodotv",ESPN 2 COL (15201110)
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_hls_media=1&_cdn_session=62664715&_cdn_timestamp=1629621007&_cdn_token=8c9936b691d5e8188dd9bf37ba17b4593dee208d
+#EXTINF:0 tvg-id="ext" group-title="nodotv",ESPN 3 COL (15201112)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_hls_media=1&_cdn_session=62811667&_cdn_timestamp=1629624614&_cdn_token=db4655b3f5ce8e574cf3dbf7ede625c55e98099e
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS ARG (15203782)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=61246755&_cdn_timestamp=1629557596&_cdn_token=9ee18c263d1d06b01a94726e8b4792b122b5ef13
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS 2 ARG  (15203816)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=61247227&_cdn_timestamp=1629557719&_cdn_token=d20aff02237d404abaa6229e9cb0f9441446ec43
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS 3 ARG (15203834)
+http://195.181.163.39/DEP_FOX_SPORTS_3_ARG/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",DAZN F1 (15206828)
+http://minafire.com:25461/new36/CEDrCH5bBe/19
+#EXTINF:0 tvg-id="ext" group-title="nodotv",MOVISTAR LA LIGA (15206947)
+http://minafire.com:25461/new36/CEDrCH5bBe/50
+#EXTINF:0 tvg-id="ext" group-title="nodotv",MOVISTAR LIGA DE CAMPEONES (15206957)
+http://minafire.com:25461/new36/CEDrCH5bBe/53
+#EXTINF:0 tvg-id="ext" group-title="nodotv",MOVISTAR LA LIGA 2 (15214612)
+http://minafire.com:25461/new36/CEDrCH5bBe/432
+#EXTINF:0 tvg-id="ext" group-title="nodotv",TUDN (15207013)
+http://38.18.237.42:4153/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS MX (15207318)
+http://208.88.246.11:4153/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS 2 MX  (15207321)
+http://38.18.237.42:4153/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS 3 MX  (15207323)
+http://38.18.238.35:4153/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",AFIZZIONADOS (15208083)
+http://23.237.132.90:8081/live/afizionados_ekhgetew/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",DIRECTV SPORTS (15207992)
+http://23.237.132.90:8081/live/dt_sp_1_wirehtiwa/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",DIRECTV SPORTS 2 (15207993)
+http://23.237.132.90:8081/live/DIRETV2_rejnaite/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",DIRECTV SPORTS + (15207995)
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",TNT SPORTS (15208042)
+http://23.237.132.90:8081/DEP/tn_sp_argen/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",Win Sports + (15208002)
+http://23.237.132.90:8081/live/win_sp_plus_eowhnre/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",WIN SPORTS (15208039)
+http://23.237.132.90:8081/live/win_sports_utoiwe/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",VTV+ (15208043)
+http://23.237.132.90:8081/live/vtv_plus/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",TNT SPORTS CHI (15208045)
+http://23.237.132.90:8081/live/tnt_sports_rbgjkw/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",ecua (15214554)
+https://video-weaver.waw01.hls.ttvnw.net/v1/playlist/CqsF1gQPFjzYEjWUrwjI4erjWvcV9QQusWC0XCl-M0pFrBgR8yqv4Zi6fuqnIqIiJ_OV-TKFVr83hC9wCBbtOPs4A_dfEO77aqCpEamx_7Cr6Rf2EFl00y5tjd0rXWn1mwaUV5WV4vX0KpYK0unwPyULThlFx4aO6fISHJ23Oo8EI85q-Jh_FIt1WBmmxJcS97W5YZVy7pwbXMrx-Tcb_mByZ1o8gWT4pzHAgII0jNj7UkpRRS4MG0mba30_07VnAwEGPwWGRRI_1mBW_OA5YTPHwHMgwYEDdjAskJ-lCWN7NSHI5et0ZzD-R6KR3WBsL3Hl1h8InYULzoBf6DyuYeCwkshOUqTfh4r7e3IMHQn6GxjC8M69kboZE4UOrgBXMcfmV10wwNZkyS4Nfic4e9HK-QIJ7TqoQOosREDvVbQEZOlJL7PzX8w0MHr1oFgQXdg5lywC2OsX90RZWIips3wUJhjIv1Ngexod_tEIGgCExL0ZC7aXxh4odFrLwDLihUpsS-26jrMLSOgvVxITOgsANbR6dPHQcpxkU9PibEiX_qZQBd2Lk-dy9bRL862MfTe7BXVYfw7Q5HHfUoDm0uEr_b2PWxC_8u9qV6c6eHhNZ33nIHnv4Fw9Q-YxBA5vh24DjYSGBW0BCZeZsuLQAit_OJubyJE4H629HWWa2hxik1PSxpgP2yYVrhcoXmPxcZsVA7Qt5KV9RNYg48zOm9586Z4VEneIVfbPXC9hZJXG2YQCAJe-DjTXzvA55qlMNjXWUlRVBMniOt9f2n9T6673H-C5x6Ap5dCLLjp0jMwQAQrca5kG7SOy_hYnW6QXHZ-fw9ZUrzmIRgzJwNRMa64EYMe0Ydsg7J_ua73D2RGyigbYaSEmjuhCeHRKWYik6rg0OmBKA1CpossGDoQSEIfzfwQYJfVFPCGMHyVzuNoaDN61jgb
+#EXTINF:0 tvg-id="ext" group-title="nodotv",E2 (15221794)
+http://uefa.mazystreams.xyz/live/5/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",liga (15221948)
+http://minafire.com:25461/live/newnew14575/Z66WCKskh7/50.ts
+#EXTINF:0 tvg-id="ext" group-title="nodotv",A1 (15222184)
+https://centurylink.br.cdn.booyah.live/hls/1000087/81257662.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",A2 (15222185)
+https://google-br.cdn.booyah.live/hls/1000038/79691263.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",S2 (15222193)
+https://google-br.cdn.booyah.live/hls/1000021/81257662.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",S3 (15222196)
+https://aws-br.cdn.booyah.live/hls/1000016/81258086.m3u8
+#EXTINF:0 tvg-id="avi" group-title="nodotv",wwe (15225316)
+https://www.youtube.com/watch?v=Ehln-6e5XZk
+#EXTINF:0 tvg-id="ext" group-title="nodotv",Mx (15235293)
+http://minafire.com:25461/live/newnew14575/Z66WCKskh7/432.ts
+#EXTINF:0 tvg-id="ext" group-title="nodotv",Liga smart (15235693)
+http://209.126.119.148:25461/live/ac16e9ce26b7452d8f511a91e19ebcb8/053ac423a35e4e0ea0906b31f26f09f5/213.m3u8
