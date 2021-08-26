@@ -25,6 +25,10 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/36
 #EXTINF:0 ,AFIZZIONADOS OP2
 https://blackghost.live/play/5-833.php?c=Afizzionados&t=.m3u8
+#EXTINF:-1 ,DIRECTV SPORT 2
+http://user.scalecdn.co:8080/live/iconichost.net/5pbzwwUX24/560372.ts
+#EXTINF:-1 ,DIRECTV SPORT 2
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/49510
 #EXTINF:0 ,FOX SPORT
 http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/9
 #EXTINF:0 ,FOX SPORT OP2
