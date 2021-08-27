@@ -15,14 +15,18 @@ http://tvready.org:25461/23763235/36984944/10632
 http://tvready.org:25461/23763235/36984944/10635
 #EXTINF:0 ,DIRECTV SPORT 2
 http://tvready.org:25461/23763235/36984944/11251
+#EXTINF:-1 ,TUDN
+https://chinofree.000webhostapp.com/live/fran.php/20
+#EXTINF:-1 ,AFIZZIONADOS
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 ,AFIZZIONADOS OP2
+https://chinofree.000webhostapp.com/live/fran.php/36
 #EXTINF:-1 ,UNIVISION TUDN
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/15883
 #EXTINF:-1 ,UNIVISION TUDN OP2
 http://flowfhd.xyz:25461/Annabelle/12345/180135
 #EXTINF:-1 ,IZZIAFICIONADOS
 http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
-#EXTINF:0 ,AFIZZIONADOS
-http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/36
 #EXTINF:0 ,AFIZZIONADOS OP2
 https://blackghost.live/play/5-833.php?c=Afizzionados&t=.m3u8
 #EXTINF:-1 ,TUDN
@@ -31,6 +35,10 @@ http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83634
 http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 ,AFIZZIONADOS OP2
 https://blackghost.live/play/megapro-833.php?c=382&token=pQtm1rpaFG&play=fuplayer
+#EXTINF:-1 ,FOX SPORT 1
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
+#EXTINF:-1 ,FOX SPORT 2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8
 #EXTINF:-1 ,DIRECTV SPORT 2
 http://user.scalecdn.co:8080/live/iconichost.net/5pbzwwUX24/560372.ts
 #EXTINF:-1 ,DIRECTV SPORT 2
