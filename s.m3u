@@ -18,23 +18,27 @@ http://tvready.org:25461/23763235/36984944/11251
 #EXTINF:-1 ,SKY SPORT OP3
 https://chinofree.000webhostapp.com/live/fran.php/28
 #EXTINF:-1 ,TUDN
-https://chinofree.000webhostapp.com/live/fran.php/20
-#EXTINF:-1 ,AFIZZIONADOS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:-1 ,TUDN OP2
+http://scrapehost.com:8080/Cedrick/Cedrick/132853
+#EXTINF:-1 ,MOVISTAR LA LIGA
 http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
-#EXTINF:-1 ,AFIZZIONADOS OP2
+#EXTINF:-1 ,AFIZZIONADOS
+http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1 ,AFIZZIONADOZ OP2
+http://scrapehost.com:8080/Cedrick/Cedrick/132780
+#EXTINF:-1 ,Movistar la liga
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 ,AFIZZIONADOS OP3
 https://chinofree.000webhostapp.com/live/fran.php/36
 #EXTINF:-1 ,UNIVISION TUDN
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/15883
 #EXTINF:-1 ,UNIVISION TUDN OP2
 http://flowfhd.xyz:25461/Annabelle/12345/180135
-#EXTINF:-1 ,IZZIAFICIONADOS
-http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:0 ,AFIZZIONADOS OP2
 https://blackghost.live/play/5-833.php?c=Afizzionados&t=.m3u8
 #EXTINF:-1 ,TUDN
 http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83634
-#EXTINF:-1 ,AFIZZIONADOS
-http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 ,AFIZZIONADOS OP2
 https://blackghost.live/play/megapro-833.php?c=382&token=pQtm1rpaFG&play=fuplayer
 #EXTINF:-1 ,FOX SPORT 1
