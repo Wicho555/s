@@ -9,6 +9,8 @@ http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:0 ,SKY SPORT
 http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
+#EXTINF:-1 ,FOOTBALL NETWORK
+https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
 #EXTINF:-1 ,ESPN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:-1 ,ESPN
